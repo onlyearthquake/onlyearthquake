@@ -3,7 +3,6 @@
 * 🔭 Interested in Game Programing And Comptuer Graphics
 * 🌱 Currently learning SRP And UE.
 
-#0084FF
 <!--
 **onlyearthquake/onlyearthquake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
