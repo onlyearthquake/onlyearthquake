@@ -1,7 +1,7 @@
 ### Hi there 👋
 * 😄 Here is an undergraduate CS student at HUST
 * 🔭 Interested in Game Programing And Comptuer Graphics
-* 🌱 Currently learning SRP And UE.
+* 🌱 Currently learning UE And ReSTIR.
 
 <!--
 **onlyearthquake/onlyearthquake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
